@@ -1,4 +1,4 @@
-package com.company;
+package com.company.singleton;
 
 public class ClipBoard {
 
